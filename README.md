@@ -1,6 +1,6 @@
 # world_time_app
 
-A new Flutter project.
+A new Flutter project to get the date and time from different parts of the world.
 
 ## Getting Started
 
